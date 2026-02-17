@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="post-container">
+    <header class="post-header">
+      <h1>{{ page.title }}</h1>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    </header>
+    <div class="post-content">
+      {{ content }}
+    </div>
+    <div class="post-back">
+      <a href="{{ '/changelog/' | relative_url }}">&larr; Back to Changelog</a>
+    </div>
+  </div>
+</article>
