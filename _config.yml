@@ -20,13 +20,9 @@
 
 title: Atlas
 description: >-
-  A private and secure browser with built-in file storage. Browse freely, store safely.
+  Browse the web with Atlas, your AI companion.
 baseurl: ""
 url: "https://browsewithatlas.com"
-
-# Navigation
-header_pages:
-  - changelog.markdown
 
 # Build settings
 theme: minima
