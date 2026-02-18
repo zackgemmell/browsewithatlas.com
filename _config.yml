@@ -23,6 +23,7 @@ description: >-
   Browse the web with Atlas, your AI companion.
 baseurl: ""
 url: "https://browsewithatlas.com"
+testflight_url: "https://testflight.apple.com/join/7zmFrHeE"
 
 # Build settings
 theme: minima
