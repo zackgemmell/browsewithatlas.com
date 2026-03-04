@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Changelog
+title: Blog
 permalink: /changelog/
 ---
 
