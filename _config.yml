@@ -25,6 +25,9 @@ baseurl: ""
 url: "https://browsewithatlas.com"
 testflight_url: "https://testflight.apple.com/join/7zmFrHeE"
 
+header_pages:
+  - changelog.markdown
+
 # Build settings
 theme: minima
 plugins:
